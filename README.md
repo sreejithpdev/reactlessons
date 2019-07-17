@@ -16,5 +16,8 @@ Handle Events
 ReactDOM.Render
 Root Component in Root DIV
 
-### JSX Style
+### JSX Style,Variables
 ```<div style={{backgroundColor:'blue'}}></div>```
+*Class => className
+*Accessing Java Script Varibales
+*Passing dom propraties as java script objects
