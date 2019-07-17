@@ -18,6 +18,8 @@ Root Component in Root DIV
 
 ### JSX Style,Variables
 ```<div style={{backgroundColor:'blue'}}></div>```
-*Class => className
-*Accessing Java Script Varibales
-*Passing dom propraties as java script objects
+* Class => className
+* Accessing Java Script Varibales
+*  dom propraties as java script objects
+
+### Component Nesting, Reusability & Configuration.
